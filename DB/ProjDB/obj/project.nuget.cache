@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aEBbk3YyZRMMHDJNV/ZzjNIVsxlarhhKey8gMNB8htVNwwrwrJjOcHdql77Rs3PvjSTFiKeC2q1KAyn2nfaV+w==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\patri\\Documents\\3rd Year\\4th Sem\\CPE106L\\Proj\\CPE106L_Payroll\\DB\\ProjDB\\ProjDB.sqlproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\patri\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

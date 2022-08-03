@@ -1,0 +1,47 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\patri\\Documents\\3rd Year\\4th Sem\\CPE106L\\Proj\\CPE106L_Payroll\\DB\\ProjDB\\ProjDB.sqlproj": {}
+  },
+  "projects": {
+    "c:\\Users\\patri\\Documents\\3rd Year\\4th Sem\\CPE106L\\Proj\\CPE106L_Payroll\\DB\\ProjDB\\ProjDB.sqlproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\patri\\Documents\\3rd Year\\4th Sem\\CPE106L\\Proj\\CPE106L_Payroll\\DB\\ProjDB\\ProjDB.sqlproj",
+        "projectName": "ProjDB",
+        "projectPath": "c:\\Users\\patri\\Documents\\3rd Year\\4th Sem\\CPE106L\\Proj\\CPE106L_Payroll\\DB\\ProjDB\\ProjDB.sqlproj",
+        "packagesPath": "C:\\Users\\patri\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\patri\\Documents\\3rd Year\\4th Sem\\CPE106L\\Proj\\CPE106L_Payroll\\DB\\ProjDB\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\patri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

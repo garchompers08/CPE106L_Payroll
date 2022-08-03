@@ -1,0 +1,10 @@
+c:\Users\patri\Documents\3rd Year\4th Sem\CPE106L\Proj\CPE106L_Payroll\DB\ProjDB\bin\Debug\ProjDB.dacpac
+c:\Users\patri\Documents\3rd Year\4th Sem\CPE106L\Proj\CPE106L_Payroll\DB\ProjDB\bin\Debug\ProjDB.dll
+c:\Users\patri\Documents\3rd Year\4th Sem\CPE106L\Proj\CPE106L_Payroll\DB\ProjDB\bin\Debug\ProjDB.pdb
+c:\Users\patri\Documents\3rd Year\4th Sem\CPE106L\Proj\CPE106L_Payroll\DB\ProjDB\obj\Debug\ProjDB.sqlproj.AssemblyReference.cache
+c:\Users\patri\Documents\3rd Year\4th Sem\CPE106L\Proj\CPE106L_Payroll\DB\ProjDB\obj\Debug\Model.xml
+c:\Users\patri\Documents\3rd Year\4th Sem\CPE106L\Proj\CPE106L_Payroll\DB\ProjDB\obj\Debug\refactor.xml
+c:\Users\patri\Documents\3rd Year\4th Sem\CPE106L\Proj\CPE106L_Payroll\DB\ProjDB\obj\Debug\postdeploy.sql
+c:\Users\patri\Documents\3rd Year\4th Sem\CPE106L\Proj\CPE106L_Payroll\DB\ProjDB\obj\Debug\predeploy.sql
+c:\Users\patri\Documents\3rd Year\4th Sem\CPE106L\Proj\CPE106L_Payroll\DB\ProjDB\obj\Debug\ProjDB.dll
+c:\Users\patri\Documents\3rd Year\4th Sem\CPE106L\Proj\CPE106L_Payroll\DB\ProjDB\obj\Debug\ProjDB.pdb
